@@ -5,15 +5,39 @@
             "category": "asset", 
             "course": "CSC", 
             "name": "a_olloid_and_Surface_Chemistry.png", 
-            "org": "IIIT-H", 
+            "org": "IIITH", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "a\u00acolloid and Surface Chemistry.png", 
-        "filename": "asset-v1:IIIT-H+CSC+Anytime+type@asset+block@a_olloid_and_Surface_Chemistry.png", 
+        "filename": "asset-v1:IIITH+CSC+Anytime+type@asset+block@a_olloid_and_Surface_Chemistry.png", 
         "import_path": null, 
         "locked": false, 
         "thumbnail_location": null
+    }, 
+    "colloid_and_Surface_Chemistry.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CSC", 
+            "name": "colloid_and_Surface_Chemistry.png", 
+            "org": "IIITH", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "colloid and Surface Chemistry.png", 
+        "filename": "asset-v1:IIITH+CSC+Anytime+type@asset+block@colloid_and_Surface_Chemistry.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIITH", 
+            "CSC", 
+            "thumbnail", 
+            "colloid_and_Surface_Chemistry-png.jpg", 
+            null
+        ]
     }
 }
