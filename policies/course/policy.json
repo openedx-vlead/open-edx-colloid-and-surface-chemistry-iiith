@@ -2,7 +2,7 @@
     "course/course": {
         "advertised_start": "Anytime", 
         "cert_html_view_enabled": true, 
-        "course_image": "a\u00acolloid and Surface Chemistry.png", 
+        "course_image": "colloid and Surface Chemistry.png", 
         "discussion_topics": {
             "General": {
                 "id": "course"
