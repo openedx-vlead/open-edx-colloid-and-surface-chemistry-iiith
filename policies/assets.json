@@ -3,16 +3,16 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "CSC", 
+            "course": "chemsc03", 
             "name": "a_olloid_and_Surface_Chemistry.png", 
-            "org": "IIIT-H", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "a\u00acolloid and Surface Chemistry.png", 
-        "filename": "asset-v1:IIIT-H+CSC+Anytime+type@asset+block@a_olloid_and_Surface_Chemistry.png", 
-        "import_path": null, 
+        "filename": "asset-v1:Virtual-Labs+chemsc03+Anytime+type@asset+block@a_olloid_and_Surface_Chemistry.png", 
+        "import_path": "a\u00acolloid and Surface Chemistry.png", 
         "locked": false, 
         "thumbnail_location": null
     }, 
@@ -20,21 +20,21 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "CSC", 
+            "course": "chemsc03", 
             "name": "colloid_and_Surface_Chemistry.png", 
-            "org": "IIIT-H", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "colloid and Surface Chemistry.png", 
-        "filename": "asset-v1:IIIT-H+CSC+Anytime+type@asset+block@colloid_and_Surface_Chemistry.png", 
-        "import_path": null, 
+        "filename": "asset-v1:Virtual-Labs+chemsc03+Anytime+type@asset+block@colloid_and_Surface_Chemistry.png", 
+        "import_path": "colloid and Surface Chemistry.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIIT-H", 
-            "CSC", 
+            "Virtual-Labs", 
+            "chemsc03", 
             "thumbnail", 
             "colloid_and_Surface_Chemistry-png.jpg", 
             null
